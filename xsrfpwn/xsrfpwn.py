@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 #-:-:-:-:-:-:-::-:-:#
-#    XSRF Probe     #
+#    XSRF Pwn     #
 #-:-:-:-:-:-:-::-:-:#
 
-# Author: 0xInfection
-# This module requires XSRFProbe
-# https://github.com/0xInfection/XSRFProbe
+# Author: duckstroms
+# This module requires XSRFPwn
+# https://github.com/duckstroms/XSRFPwn
 
 def startEngine():
     from xsrfprobe.core import main  # import stuff
