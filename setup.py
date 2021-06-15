@@ -5,7 +5,7 @@
 #    XSRF Pwn       #
 #-:-:-:-:-:-:-::-:-:#
 
-# Author: 0xInfection
+# Author: duckstroms
 # This module requires XSRFPwn
 # https://github.com/duckstroms/XSRFPwn
 
